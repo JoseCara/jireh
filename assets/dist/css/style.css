@@ -1,0 +1,79 @@
+
+*{
+ margin: 0%;
+ padding:0;
+}
+
+
+.icon{
+    color:#7dc229;
+}
+
+.icon-w{
+    color:#7dc229;
+}
+
+.tutulo{
+    color:#7dc229;
+}
+
+a{
+    color:#7dc229;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #011665;
+    border-color: #6c757d;
+}
+
+#banner-color{
+    background-color: #7dc229;
+    height:30%;
+}
+
+.bg {
+    background-color: #7dc229;
+    color:white;
+}
+
+.link-email{
+    cursor: pointer;
+    text-decoration: none;
+    color:white;
+}
+
+.l1{
+    color: white;
+}
+
+.wts{
+    background-color: #01e675;
+    color: #fff !important;
+}
+
+.nav-link{
+    cursor: pointer;
+}
+
+iframe { 
+    display:block; 
+    width:100%; 
+    border:none; 
+}
+
+.img-v{
+    display:block; 
+    width:100%; 
+    border:none; 
+}
+
+@media (max-width: 640px) { 
+  .main{
+    margin-top: 10%;
+   }
+   #myCarousel{
+       display: none;
+   }  
+
+ }
